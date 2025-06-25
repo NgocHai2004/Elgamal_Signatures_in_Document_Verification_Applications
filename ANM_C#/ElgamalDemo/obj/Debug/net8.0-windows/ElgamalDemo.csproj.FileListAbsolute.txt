@@ -1,0 +1,87 @@
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.exe
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.deps.json
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.runtimeconfig.json
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.pdb
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.Form1.resources
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.GenerateResource.cache
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.AssemblyInfoInputs.cache
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.AssemblyInfo.cs
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.CoreCompileInputs.cache
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\refint\ElgamalDemo.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.pdb
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.genruntimeconfig.cache
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ref\ElgamalDemo.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.AssemblyReference.cache
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalD.CC4B86E8.Up2Date
+D:\nam3\Ki2\An ninh mạng\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.Properties.Resources.resources
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.exe
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.deps.json
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.runtimeconfig.json
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.pdb
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.Form1.resources
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.Properties.Resources.resources
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.AssemblyInfo.cs
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalD.CC4B86E8.Up2Date
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\refint\ElgamalDemo.dll
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.pdb
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.genruntimeconfig.cache
+C:\Users\DELL\Documents\Kì6\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ref\ElgamalDemo.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.exe
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.deps.json
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.runtimeconfig.json
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\ElgamalDemo.pdb
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.AssemblyReference.cache
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.Form1.resources
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.Properties.Resources.resources
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.GenerateResource.cache
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.AssemblyInfoInputs.cache
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.AssemblyInfo.cs
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.csproj.CoreCompileInputs.cache
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalD.CC4B86E8.Up2Date
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\refint\ElgamalDemo.dll
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.pdb
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ElgamalDemo.genruntimeconfig.cache
+C:\Users\My computer\OneDrive\Documents\ElgamalDemoCSharpFinal\ElgamalDemo\obj\Debug\net8.0-windows\ref\ElgamalDemo.dll
